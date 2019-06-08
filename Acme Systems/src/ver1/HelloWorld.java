@@ -13,6 +13,12 @@ public class HelloWorld {
 		String Msg = "Hey Now!";
 		System.out.println(Msg);
 	}
+	
+	public static void whatFor() {
+		String Msg2 = "what for!";
+		System.out.println(Msg2);
+	}
+
 
 
 }
